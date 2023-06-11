@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27303003458",
+    "firebase_url": "https://haligol-v3.firebaseio.com",
+    "project_id": "haligol-v3",
+    "storage_bucket": "haligol-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27303003458:android:8fd6462c2f9ada157434db",
+        "android_client_info": {
+          "package_name": "com.example.haligol_deneme3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27303003458-51tu87q7r1not4sr0h9b9t0jojmn3ivn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAQMEd8IDJo_gRP2gHgLgy20Ge6KWGSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27303003458-51tu87q7r1not4sr0h9b9t0jojmn3ivn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
